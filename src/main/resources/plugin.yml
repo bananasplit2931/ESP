@@ -1,0 +1,16 @@
+name: ESP
+version: ''
+main: pl.esp.ESP
+api-version: '26.1'
+description: Even Simpler PIN - lightweight 4-digit PIN authentication via chat command for Paper servers.
+authors: [ bananasquare ]
+website: https://modrinth.com/plugin/even-simpler-pin
+
+commands:
+  pin:
+    description: Authenticate with your 4-digit PIN.
+    usage: /pin <4-digit PIN>
+  espadmin:
+    description: Administrative commands for ESP.
+    usage: /espadmin reset <player>
+    permission: op
