@@ -15,7 +15,7 @@ Players authenticate using the `/pin` command in chat.
 1. Download the latest `.jar` from [Modrinth](https://modrinth.com/plugin/even-simpler-pin).
 2. Place the `.jar` in your server's `plugins/` folder.
 3. Restart your server.
-**Requirements:** Paper 1.21+ - Java 25+
+**Requirements:** Paper 26.1.2+ - Java 25+
 ---
 ## Usage
 ESP requires all players to authenticate with a 4-digit PIN before interacting with the server. The PIN is set on first join and must be entered on every subsequent join.
