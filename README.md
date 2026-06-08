@@ -12,7 +12,7 @@ Players authenticate using the `/pin` command in chat.
 - **Admin reset command** - reset any player's PIN from the console or in-game
 ---
 ## Installation
-1. Download the latest `.jar` from [Releases](../../releases) or [Modrinth](https://modrinth.com/plugin/even-simpler-pin).
+1. Download the latest `.jar` from [Modrinth](https://modrinth.com/plugin/even-simpler-pin).
 2. Place the `.jar` in your server's `plugins/` folder.
 3. Restart your server.
 **Requirements:** Paper 1.21+ - Java 25+
