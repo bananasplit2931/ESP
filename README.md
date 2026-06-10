@@ -1,6 +1,5 @@
 # ESP - Even Simpler PIN
-A lightweight 4-digit PIN authentication plugin for [Paper](https://papermc.io) 1.21+.
-Players authenticate using the `/pin` command in chat.
+A lightweight 4-digit PIN authentication plugin. Players authenticate using the `/pin` command in chat.
 ---
 ## Features
 - **Chat-based authentication** - players enter their PIN via `/pin <4 digits>`
